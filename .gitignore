@@ -1,0 +1,14 @@
+# секреты и данные людей сюда не попадают
+.env
+.env.*
+!.env.example
+*.json.key
+service-account*.json
+data/
+*.csv
+*.xlsx
+
+__pycache__/
+*.pyc
+.venv/
+.vercel/
